@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Goku! Sacanagem... hehehe Olá! Eu sou o Lucas 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpiresdev&show_icons=true&theme=highcontras)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpiresdev&show_icons=true&theme=gradient)
 
 <!--
 **lpiresdev/lpiresdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
