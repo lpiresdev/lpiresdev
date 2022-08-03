@@ -1,4 +1,4 @@
-### Oi! Eu sou o Goku! Sacanagem... hehehe Olá! Eu sou o Lucas 👋
+### Oi, Eu sou o Goku! Sacanagem... hehehe Olá! Eu sou o Lucas 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpiresdev&show_icons=true&theme=highcontrast)
 
